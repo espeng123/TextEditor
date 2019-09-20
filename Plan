@@ -3,3 +3,33 @@
 looking at online references, get idea of components to use
 but build structure ourselves
 if text editor is (relatively) doable, add more features
+
+Font
+The Font class represents fonts, which are used to render text in a visible way.
+
+Cursor
+
+A class to encapsulate the bitmap representation of the mouse cursor.
+
+MenuBar
+The MenuBar class encapsulates the platform's concept of a menu bar bound to a frame.
+
+MenuItem
+All items in a menu must belong to the class MenuItem, or one of its subclasses.
+
+TextArea
+A TextArea object is a multi-line region that displays text.
+
+AWTKeystroke
+
+An AWTKeyStroke represents a key action on the keyboard, or equivalent input device.
+
+Scrollbar
+The Scrollbar class embodies a scroll bar, a familiar user-interface object.
+
+TextField
+
+A TextField object is a text component that allows for the editing of a single line of text.
+
+
+
