@@ -8,7 +8,6 @@ Font
 The Font class represents fonts, which are used to render text in a visible way.
 
 Cursor
-
 A class to encapsulate the bitmap representation of the mouse cursor.
 
 MenuBar
@@ -28,5 +27,4 @@ Scrollbar
 The Scrollbar class embodies a scroll bar, a familiar user-interface object.
 
 TextField
-
 A TextField object is a text component that allows for the editing of a single line of text.
